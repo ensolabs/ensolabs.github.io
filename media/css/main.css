@@ -14,15 +14,54 @@ body, html {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    position: relative;
 }
 
 .enso-fp-box-wrapper{
-    vertical-align: bottom;
+    position: absolute;
+    bottom: 15em;
+    left: 10em;
 }
 
 .enso-box-rounded {
-    background-color: rgba(0, 0, 0, 0.2);
-    border-radius: 5px;
-    padding: 2em;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+    padding: 1rem;
     vertical-align: bottom;
+}
+
+.enso-dark-panel{
+    background-color: #1a1a1a;
+}
+
+.enso-mu-1{
+    margin-top: 1rem;
+}
+.enso-mu-2{
+    margin-top: 2rem;
+}
+.enso-mu-5{
+    margin-top: 5rem;
+}
+
+.enso-content-left-gutter{
+    margin-left: 4.16%;
+        margin-right: 4.16%;
+    
+}
+.enso-content-right-gutter{
+    margin-left: 4.16%;
+    margin-right: 4.16%;
+}
+
+
+@media only screen and (min-width: 993px) {
+    .enso-content-left-gutter{
+        margin-left: 8.33%;
+        margin-right: 4.16%;
+    }
+    .enso-content-right-gutter{
+        margin-left: 4.16%;
+        margin-right: 8.33%;
+    }
 }
