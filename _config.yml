@@ -1,1 +1,4 @@
-theme: jekyll-theme-hacker
+auto: true
+name: Enso
+markdown: kramdown
+repository: https://github.com/ensolabs/ensolabs.github.io.git

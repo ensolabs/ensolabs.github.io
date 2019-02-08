@@ -1,0 +1,28 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+/* .content-wrapper-100vh{
+    min-height: 100vh;
+} */
+
+.enso-bridge-background {
+    background-image: url("../images/bridge.jpg");
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.enso-fp-box-wrapper{
+    vertical-align: bottom;
+}
+
+.enso-box-rounded {
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 2em;
+    vertical-align: bottom;
+}
