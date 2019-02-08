@@ -32,6 +32,10 @@ body, html {
 
 .enso-dark-panel{
     background-color: #1a1a1a;
+    color: white;
+}
+.enso-orange{
+    color: #f5821f;
 }
 
 .enso-mu-1{
