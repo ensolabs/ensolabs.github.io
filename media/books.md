@@ -7,3 +7,4 @@
 |Site Realiability Engineering||||Evgeny|[Link](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X)|
 |Continuous Delivery: Reliable Software Releases through Build, Test and Deployment Automation||||Evgeny|[Link](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X)|
 |Jævla drittsystem||||Arlene|[Link](https://www.ark.no/boker/Jonas-Soderstrom-Jaevla-drittsystem-9788243007970)|
+|The Phoenix Project|Gene Kim|A horrible one dimensional novel, but a nice way to illustrate how lean could improve pipelines|4|Snorre|[Link](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509)|
